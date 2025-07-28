@@ -1,0 +1,15 @@
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-07-28T11:57:45.936Z"}
+{"level":"info","message":"Database synced","timestamp":"2025-07-28T11:57:46.046Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-07-28T12:06:35.840Z"}
+{"level":"info","message":"Database synced","timestamp":"2025-07-28T12:06:35.937Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-07-28T12:08:54.188Z"}
+{"level":"info","message":"Database synced","timestamp":"2025-07-28T12:08:54.313Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-07-28T12:12:35.506Z"}
+{"level":"info","message":"Database synced","timestamp":"2025-07-28T12:12:35.625Z"}
+{"level":"info","message":"User created: 61f18ca3-3e68-4b23-9e5a-7d2d74b33396","timestamp":"2025-07-28T12:13:52.243Z"}
+{"level":"info","message":"Wallet funded: userId=61f18ca3-3e68-4b23-9e5a-7d2d74b33396, amount=100","timestamp":"2025-07-28T12:14:32.272Z"}
+{"level":"info","message":"User created: c0950c70-505d-4791-91e3-c7b35ac3418f","timestamp":"2025-07-28T12:15:02.441Z"}
+{"level":"error","message":"Error transferring funds: User not found","timestamp":"2025-07-28T12:15:24.805Z"}
+{"level":"info","message":"Transfer completed: from=61f18ca3-3e68-4b23-9e5a-7d2d74b33396, to=c0950c70-505d-4791-91e3-c7b35ac3418f, amount=50","timestamp":"2025-07-28T12:16:29.986Z"}
+{"level":"info","message":"Fetched transactions for userId=61f18ca3-3e68-4b23-9e5a-7d2d74b33396","timestamp":"2025-07-28T12:16:49.042Z"}
+{"level":"error","message":"Validation error: \"toUserId\" is not allowed to be empty","timestamp":"2025-07-28T12:17:48.631Z"}
